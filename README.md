@@ -30,6 +30,6 @@ https://drive.google.com/drive/u/1/folders/1z52Ld_XJlsFq9tFokryLm5de5A0jbJkV
 
 ### Step 3 - Run code
 
-1. coppy model resnet18_trt.pth to code/tasks/human_pose.  
-2. cd code/tasks/human_pose.  
+1. cd code/tasks/human_pose.  
+2. coppy model resnet18_trt.pth to code/tasks/human_pose.  
 3. python3 run.py
