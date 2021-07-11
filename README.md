@@ -24,8 +24,12 @@
 cd code
 sudo python3 setup.py install
 ```
+### Step 3 - Download model resnet18_trt.pth
+
+https://drive.google.com/drive/u/1/folders/1z52Ld_XJlsFq9tFokryLm5de5A0jbJkV
 
 ### Step 3 - Run code
 
-1. cd code/tasks/human_pose.  
-2. python3 run.py
+1. coppy model resnet18_trt.pth to code/tasks/human_pose.  
+2. cd code/tasks/human_pose.  
+3. python3 run.py
