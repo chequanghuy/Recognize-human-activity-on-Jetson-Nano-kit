@@ -25,8 +25,8 @@ python setup.py build develop
 ### Step 3 - Download model fast_res50_256x192.pth, yolov5s_int8b1.engine
 
 https://drive.google.com/drive/u/1/folders/1z52Ld_XJlsFq9tFokryLm5de5A0jbJkV
-1. coppy model fast_res50_256x192.pth to /Recognize-human-activity-on-Jetson-Nano-kit/AlphaPose/pretrained_models
-2. coppy model yolov5s_int8b1.engine to /Recognize-human-activity-on-Jetson-Nano-kit/AlphaPose/yolov5/build
+1. coppy model fast_res50_256x192.pth to /Recognize-human-activity-on-Jetson-Nano-kit/AlphaPose+yolov5/pretrained_models
+2. coppy model yolov5s_int8b1.engine to /Recognize-human-activity-on-Jetson-Nano-kit/AlphaPose+yolov5/yolov5/build
 ### Step 3 - Run code
 
 1. cd /Recognize-human-activity-on-Jetson-Nano-kit/AlphaPose/yolov5
